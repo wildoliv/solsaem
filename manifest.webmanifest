@@ -1,21 +1,13 @@
 {
   "name": "솔샘중학교",
   "short_name": "솔샘중",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/solsaem/",
+  "scope": "/solsaem/",
   "display": "standalone",
   "background_color": "#f4f6f9",
   "theme_color": "#f4f6f9",
   "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    { "src": "/solsaem/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/solsaem/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
